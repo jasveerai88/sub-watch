@@ -1,0 +1,12 @@
+sub,doc_type,issuer,expiry,doc_number,contact_email,notes
+Brightline Electrical Ltd.,COI (CGL),NorthPeak Insurance Co.,2026-10-20,CGL-8841,office@brightline-example.ca,Main electrical sub on the Ridgeview job
+Brightline Electrical Ltd.,WSIB clearance,WSIB,2026-11-20,,office@brightline-example.ca,
+Cascadia Drywall Inc.,COI (CGL),Harbor Mutual Insurance,2026-12-10,CGL-2210,admin@cascadia-example.ca,
+Cascadia Drywall Inc.,WCB clearance,WorkSafeBC,2027-01-05,,admin@cascadia-example.ca,
+True North Scaffolding Co.,COI (CGL),NorthPeak Insurance Co.,2027-02-10,CGL-9034,,
+True North Scaffolding Co.,Business licence,City of Kelowna,2027-06-30,BL-77120,,
+Pinewood Plumbing & Heating Ltd.,COI (CGL),,2026-12-20,CGL-5520,info@pinewood-example.ca,Issuer line left blank when the cert was filed
+Pinewood Plumbing & Heating Ltd.,WSIB clearance,WSIB,,,info@pinewood-example.ca,Clearance requested but the date was never typed in
+Summit Roofing Group,COI (CGL),Harbor Mutual Insurance,2026-12-01,CGL-3307,hello@summit-example.ca,
+Summit Roofing Group,COI (CGL),Harbor Mutual Insurance,2026-12-01,CGL-3307,hello@summit-example.ca,Same certificate entered twice
+Summit Roofing Group,COI (CGL),Harbor Mutual Insurance,2027-03-01,CGL-4102,hello@summit-example.ca,Renewal for the next period already on file
