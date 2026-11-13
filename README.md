@@ -210,7 +210,7 @@ Everything is local. The tool reads the CSV you point it at and writes only the 
 
 ## Support
 
-sub-watch is free and MIT-licensed. If it saves you one lapsed-certificate scare, consider sponsoring its maintenance via the GitHub Sponsors link in `.github/FUNDING.yml` — and if it misses a case your registry hits, open an issue with the (fictionalized) rows.
+sub-watch is free and MIT-licensed. If it saves you one lapsed-certificate scare, consider sponsoring its maintenance via GitHub Sponsors: [github.com/sponsors/jasveerai88](https://github.com/sponsors/jasveerai88) (also linked in `.github/FUNDING.yml`) — and if it misses a case your registry hits, open an issue with the (fictionalized) rows.
 
 ## Licence
 
